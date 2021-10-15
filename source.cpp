@@ -6,6 +6,8 @@ using namespace std;
 //fix the visualization of a poblation
 //implement some functions to be able to look the specific path of just one ant to show the best of all the simulation for example
 
+//Estoy en Main
+
 int main(){
     srand(time(NULL));
     tPoblationsList pobs;
