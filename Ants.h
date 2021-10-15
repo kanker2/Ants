@@ -1,9 +1,8 @@
 #pragma once
 #include "map.h"
-#include "Vector.h"
 #include <iostream>
 #include <string>
-using namespace std; 
+using namespace std;
 
 //Symbols to know the dir an ant is taking
 typedef enum tMove { Up, Right, Down, Left };
